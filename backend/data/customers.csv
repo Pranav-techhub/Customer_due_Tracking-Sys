@@ -1,0 +1,3 @@
+id,name,phone,email,address,due,last_update,status,added_at,username,password,plain_password
+1,sumit,8787878787,sumeetkamble0116@gmail.com,,0.0,2025-08-19 16:17:15,active,2025-08-19 13:21:21,d,scrypt:32768:8:1$gWVKDTBS3ZM3tELL$f9d0a1f72cd1e436d482196ebc7f1fc93986866531b9f8df7a826603a618f17b83218c54e7a9ccb521cb9690d6f23a34c11911088b89945a2f35dee82b87c881,d1234
+2,hhh,8765658765,de@gmail.com,,0.0,2025-08-19 15:41:33,active,2025-08-19 15:41:33,hhh,scrypt:32768:8:1$pexa5ZQj9xiByLBz$e0a97bf5d0f86ab7299a1d857707d8f93274b6a57597e6848446d06db436f09b7b695afd1651d46510ac11f45833fbf8bab3fb9b916a4efc8f9b3e8bdac7a69c,hhh1641
